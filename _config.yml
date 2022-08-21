@@ -1,0 +1,12 @@
+theme: minimal-mistakes-jekyll
+
+title: Loïc Grobol
+description:Page perso
+name: Loïc Grobol
+
+atom_feed:
+  hide: true
+
+plugins:
+  - jekyll-default-layout
+
