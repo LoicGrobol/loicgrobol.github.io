@@ -1,8 +1,8 @@
 [comment]: <> "LTeX: language=en-GB"
 <!-- markdownlint-disable MD003 MD025 MD033 -->
 
-Loïc Grobol
-===========
+Loïc Grobol Personal Page
+=========================
 
 Repo to generate <https://loicgrobol.github.io>
 

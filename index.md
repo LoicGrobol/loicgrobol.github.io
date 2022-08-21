@@ -4,9 +4,7 @@ toc: true
 ---
 
 <!-- LTeX: language=en-GB -->
-
-**Loïc** Grobol
-===============
+<!-- markdownlint-disable MD003 MD025 MD033 MD041 -->
 
 I am a *maître de conférence* (≈ Assistant Professor) in computational linguistics at [Université
 Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the [MoDyCo](https://modyco.fr) lab.
@@ -25,9 +23,11 @@ More specifically, these days I work on:
 
 Most of my work — in writing and in code — is available on [Github](https://github.com/loicgrobol)
 and [my page](https://gitlab.huma-num.fr/lgrobol) on the GitLab instance of [the HumaNum
-consortium<](http://huma-num.fr). I always welcome collaborations, bug reports and contributions.
+consortium](http://huma-num.fr). I always welcome collaborations, bug reports and contributions.
 You can also find a list of my published works in
 [HAL](https://cv.archives-ouvertes.fr/loic-grobol).
 
 If you have any questions or would like to request more information about any of the projects I am
-working on or the resources behind them, feel free to reach me at [loic.grobol@gmail.com](mailto:loic.grobol@gmail.com).
+working on or the resources behind them, feel free to reach out at [lgrobol@parisnanterre.fr](mailto:lgrobol@parisnanterre.fr).
+
+<small>Theme: [Jekyll Academic](https://github.com/LeNPaul/academic)

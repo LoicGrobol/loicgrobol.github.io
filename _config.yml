@@ -1,11 +1,11 @@
-theme: minimal-mistakes-jekyll
+theme: academic-jekyll-theme
+
+url: "https://loicgrobol.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title: Loïc Grobol
-description: Page perso
+description:
 name: Loïc Grobol
-
-atom_feed:
-  hide: true
 
 plugins:
   - jekyll-default-layout
