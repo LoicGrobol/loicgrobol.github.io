@@ -1,4 +1,3 @@
-
 ---
 title: Loïc Grobol
 toc: true
