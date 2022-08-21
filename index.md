@@ -12,14 +12,16 @@ Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the [MoDyCo](http
 My name is pronounced like this: [loic gʁobɔl]. I typically use they/them pronouns in English and
 gender-neutral pronouns in other languages where they exist.
 
-My research interests focus on machine learning applications to natural language processing; and
+## My research
+
+My research interests focus on machine learning applications to natural language processing, and
 specifically to irregular and low-resource contexts, including diachronic and historical data and
 low-resource languages.
 
 More specifically, these days I work on:
 
-- Automatic syntactic parsing of low-resource languages
-- Human-centric and interpretable evaluation of NLP systems.
+- Automatic syntactic parsing of historical languages
+- Resource construction and bootstrapping for low-resource languages
 
 Most of my work — in writing and in code — is available on [Github](https://github.com/loicgrobol)
 and [my page](https://gitlab.huma-num.fr/lgrobol) on the GitLab instance of [the HumaNum

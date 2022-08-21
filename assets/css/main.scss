@@ -6,13 +6,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Fira+Sans:wght@100;300;400;500;700;900&display=swap');
 
-$serif      : Georgia, Times, serif;
-$sans-serif : "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyFont: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif      : Georgia, Times, serif;
+$monospace  : Monaco, Consolas, "Lucida Console", monospace;
 $linkColor: #212529 !important;
 
 body {
