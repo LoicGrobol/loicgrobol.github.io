@@ -10,16 +10,22 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$serif      : Georgia, Times, serif;
-$monospace  : Monaco, Consolas, "Lucida Console", monospace;
-$linkColor: #212529 !important;
+$serif : Georgia, Times, serif;
+$monospace : Monaco, Consolas, "Lucida Console", monospace;
+$linkColor: #6F00FF !important;
 
 body {
-  background: $backgroundColor;
-  color: $bodyColor;
-  font-family: $bodyFont;
+    background: $backgroundColor;
+    color: $bodyColor;
+    font-family: $bodyFont;
 }
 
 body a {
-  color: $linkColor
+    color: $linkColor;
+    text-decoration: none;
+}
+
+body a:hover {
+    color: $linkColor;
+    text-decoration: underline;
 }
