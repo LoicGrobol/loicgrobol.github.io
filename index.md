@@ -1,4 +1,9 @@
 
+---
+title: Loïc Grobol
+toc: true
+---
+
 <!-- LTeX: language=en-GB -->
 
 **Loïc** Grobol
@@ -16,7 +21,7 @@ low-resource languages.
 
 More specifically, these days I work on:
 
-- Automatic syntactic parsing of low-resource
+- Automatic syntactic parsing of low-resource languages
 - Human-centric and interpretable evaluation of NLP systems.
 
 Most of my work — in writing and in code — is available on [Github](https://github.com/loicgrobol)
