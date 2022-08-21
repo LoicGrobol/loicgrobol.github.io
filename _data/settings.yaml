@@ -1,0 +1,4 @@
+social:
+    - { icon: "fab fa-github", link: "https://github.com/loicgrobol" }
+    - { icon: "fab fa-twitter", link: "https://twitter.com/LoicGrobol" }
+    - { icon: "fas fa-envelope", link: "mailto:lgrobol@parisnanterre.fr" }

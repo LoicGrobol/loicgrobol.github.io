@@ -29,7 +29,8 @@ consortium](http://huma-num.fr). I always welcome collaborations, bug reports an
 You can also find a list of my published works in
 [HAL](https://cv.archives-ouvertes.fr/loic-grobol).
 
-If you have any questions or would like to request more information about any of the projects I am
-working on or the resources behind them, feel free to reach out at [lgrobol@parisnanterre.fr](mailto:lgrobol@parisnanterre.fr).
+If you have questions or would like to request more information about any of the projects I am
+working on or the resources behind them, feel free to reach out at
+[lgrobol@parisnanterre.fr](mailto:lgrobol@parisnanterre.fr).
 
-<small>Theme: [Jekyll Academic](https://github.com/LeNPaul/academic)
+<small>Theme: [Jekyll Academic](https://github.com/LeNPaul/academic)</small>
