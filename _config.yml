@@ -4,6 +4,7 @@ url: "https://loicgrobol.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
 name: Loïc Grobol
+emojicon: "🌳"
 first_name: Loïc
 last_name: Grobol
 

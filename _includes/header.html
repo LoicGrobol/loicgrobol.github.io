@@ -2,11 +2,14 @@
     <div>
         <a href="{{ site.url }}{{ site.baseurl }}/" class="d-flex align-items-center text-decoration-none">
             <span class="fs-2">
-            {{ if site.title }}
+            {%- if site.emojicon -%}
+                {{ site.emojicon }}
+            {%- endif -%}
+            {%- if site.title -%}
                 {{ site.title }}
-            {{ elseif site.first_name and site.last_name }}
-                <span class="fw-bold">{{ site.first_name }}</span>&nbsp;{{ site.last_name }}
-            {{ endif }}
+            {%- elsif site.first_name and site.last_name -%}
+                <span class="fw-bold">{{ site.first_name }}</span>&nbsp;{{ site.last_name }}
+            {%- endif -%}
             </span>
         </a>
         <a href="{{ site.url }}{{ site.baseurl }}/" class="d-flex align-items-center text-decoration-none">
