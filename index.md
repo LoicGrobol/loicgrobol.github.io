@@ -4,9 +4,12 @@ toc: true
 ---
 
 <!-- LTeX: language=en-GB -->
-<!-- markdownlint-disable MD003 MD025 MD033 MD041 -->
+<!-- markdownlint-disable MD003 MD025 MD033 -->
 
-I'm Loïc Grobol. I am a *maître de conférence* (≈ Assistant Professor) in computational linguistics
+Hi! Bonjour ! Hej! Demat !
+=========================
+
+I'm Loïc Grobol. I'm a *maître de conférence* (≈ Assistant Professor) in computational linguistics
 at [Université Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the
 [MoDyCo](https://modyco.fr) team.
 
