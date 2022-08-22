@@ -9,3 +9,8 @@ name: Loïc Grobol
 
 plugins:
   - jekyll-default-layout
+  - jekyll-redirect-from
+
+
+include: ["_pages"]
+exclude: ["README.md"]

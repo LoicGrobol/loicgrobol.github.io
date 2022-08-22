@@ -17,3 +17,11 @@ bundle install
 bundle exec jekyll build
 bundle exec jekyll serve
 ```
+
+## Notes
+
+- Posts with the attribute `nav` set to true will be added to the nav bar, I recommend keeping them
+  in [`_pages`](_pages).
+- Chose the social profiles you want to display in [`data/settings.yaml`](data/settings.yaml) in the
+  `social` mapping. The icons are pulled from font awesome.
+- The style imports Bootstrap, so you can use everything it provides.
