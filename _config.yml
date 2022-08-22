@@ -11,6 +11,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-redirect-from
 
+header: "assets/img/2022-05-26-howth_hidden_beach_banner.jpg"
 
 include: ["_pages"]
 exclude: ["README.md"]

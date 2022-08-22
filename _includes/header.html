@@ -1,16 +1,30 @@
-<header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
+<header class="d-flex flex-column align-items-center pb-3 mb-5 border-bottom">
+    {% if page.header%}
+        <div role="banner">
+            <a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/{{ page.header }}" alt="{{ site.title }} banner image" title="{{ site.title }} banner image" class="img-fluid"></a>
+        </div>
+
+    {% elsif site.header %}
+
+        <div role="banner">
+            <a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/{{ site.header }}" title="{{ site.title }} banner image" class="img-fluid"></a>
+        </div>
+  
+    {% else %}
+
+    {% endif %}
     <div>
         <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
-            <span class="fs-4 fw-bold">{{ site.title }}</span>
+          <span class="fs-4 fw-bold">{{ site.title }}</span>
         </a>
         <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
-            <span>{{ site.description }}</span>
+          <span>{{ site.description }}</span>
         </a>
-    </div>
-    <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+      </div>
+    <nav class="navbar d-inline-flex mt-2 mt-md-0 ms-md-auto">
         {% assign nav_pages = site.pages | where:'nav', true %}
         {% for item in nav_pages %}
-            <a class="me-3 py-2 text-decoration-none" href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+            <a class="fs-3 me-3 py-2 text-decoration-none" href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
     </nav>
 </header>
