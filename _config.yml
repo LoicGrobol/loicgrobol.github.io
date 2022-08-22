@@ -3,9 +3,9 @@ theme: academic-jekyll-theme
 url: "https://loicgrobol.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title: Loïc Grobol
-description:
 name: Loïc Grobol
+first_name: Loïc
+last_name: Grobol
 
 plugins:
   - jekyll-default-layout

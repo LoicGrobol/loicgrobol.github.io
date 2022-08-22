@@ -12,7 +12,7 @@ $bodyColor: #000000;
 $bodyFont: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $serif : Georgia, Times, serif;
 $monospace : Monaco, Consolas, "Lucida Console", monospace;
-$linkColor: #6F00FF !important;
+$linkColor: #6F00FF;
 
 body {
     background: $backgroundColor;
@@ -28,4 +28,12 @@ body a {
 body a:hover {
     color: $linkColor;
     text-decoration: underline;
+}
+
+.navbar a {
+    color: $bodyColor;
+}
+
+.navbar a:hover {
+    color: $linkColor;
 }
