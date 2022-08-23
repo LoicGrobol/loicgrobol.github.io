@@ -4,3 +4,6 @@ permalink: /projects/
 nav: true
 published: false
 ---
+
+Projects
+========
