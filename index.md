@@ -1,6 +1,7 @@
 ---
 title: Loïc Grobol
 toc: true
+layout: home
 ---
 
 <!-- LTeX: language=en-GB -->

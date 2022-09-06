@@ -9,7 +9,6 @@ first_name: Loïc
 last_name: Grobol
 
 plugins:
-  - jekyll-default-layout
   - jekyll-redirect-from
 
 header: "assets/img/2022-05-26-howth_hidden_beach_banner.jpg"
