@@ -29,11 +29,17 @@ communicate with me in either French or English.
 
 Les cours ont tous leur site dédié, contenant toutes les informations qui leur sont relatives.
 
+### 2022-2023
+
+S1 :
+
+- 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum) (L2 SDL
+
 ### 2021-2022
 
 S1 :
 
-- 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum/) (L2 SDL
+- 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum/2021) (L2 SDL
   LCN, L2 InfoCom, L3 Humanités)
 - 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/) (M2
   PluriTAL)
