@@ -5,13 +5,10 @@ nav: true
 layout: default
 ---
 
-
-<!-- markdownlint-disable MD003 MD025 MD033 MD041 -->
+<!-- LTeX: language=en-GB -->
 
 Teaching
 ========
-
-<!-- LTeX: language=en-GB -->
 
 I teach at [Université Paris Nanterre](https://parisnanterre.fr), mostly in the [Licence sciences du
 langage](https://formations.parisnanterre.fr/fr/catalogue-des-formations/licence-lmd-03/sciences-du-langage-licence-JWQD2L5P.html)
@@ -33,7 +30,12 @@ Les cours ont tous leur site dédié, contenant toutes les informations qui leur
 
 S1 :
 
-- 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum) (L2 SDL
+- 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum)  (L2 SDL
+  LCN, L2 InfoCom, L3 Humanités)
+
+Misc :
+
+- 🐧 [Install party](https://loicgrobol.github.io/insTAL-party) (M1 PluriTAL)
 
 ### 2021-2022
 
