@@ -32,6 +32,8 @@ S1 :
 
 - 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum)  (L2 SDL
   LCN, L2 InfoCom, L3 Humanités)
+- 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/) (M2
+  PluriTAL)
 
 Misc :
 
@@ -43,7 +45,7 @@ S1 :
 
 - 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum/2021) (L2 SDL
   LCN, L2 InfoCom, L3 Humanités)
-- 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/) (M2
+- 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/2021) (M2
   PluriTAL)
 - 🕸 [Interfaces web pour le TAL](https://loicgrobol.github.io/web-interfaces/) (M2 PluriTAL)
 
