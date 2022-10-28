@@ -30,5 +30,5 @@ Most of my work — in writing and in code — is available on [Github](http
 and the [Gitlab](https://gitlab.huma-num.fr/lgrobol) instance of the HumaNum consortium. I always
 welcome bug reports and contributions.
 
-Feel free to reach out at [lgrobol@parisnanterre.fr](mailto:lgrobol@parisnanterre.fr) for questions,
+Feel free to reach out at [loic.grobol@gmail.com](mailto:loic.grobol@gmail.com) for questions,
 chats and impromptu jam sessions.
