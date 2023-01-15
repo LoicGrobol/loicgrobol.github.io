@@ -39,7 +39,7 @@ S2 :
 
 - 📑 [Décrire et manipuler un document
   numérique](https://loicgrobol.github.io/document-numerique/2022) (L2 SDL LCN, L2 SDL LCS)
-- 🐍 [Apprendre à programmer](https://loicgrobol.github.io/apprendre-programmer/2022) (L3 SDL LCN)
+- 🐍 [Apprendre à programmer](https://loicgrobol.github.io/apprendre-programmer) (L3 SDL LCN)
 - 🕸 [Interfaces web pour le TAL](https://loicgrobol.github.io/web-interfaces) (M2 PluriTAL)
 - 🤖 [Réseaux de neurones](https://loicgrobol.github.io/neural-networks) (M2 PluriTAL)
 
