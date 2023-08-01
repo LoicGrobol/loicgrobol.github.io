@@ -6,9 +6,9 @@ Loïc Grobol Personal Page
 
 Repo to generate <https://loicgrobol.github.io>
 
-Contact : [<loic.grobol@parisnanterre.fr>](mailto:loic.grobol@parisnanterre.fr)
+Contact : [<loic.grobol@gmail.com>](mailto:loic.grobol@gmail.com)
 
-## Build locally
+## Build locallybundler: failed to load command: jekyll
 
 ```console
 gem install jekyll bundler
