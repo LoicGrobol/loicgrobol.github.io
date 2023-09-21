@@ -26,13 +26,20 @@ communicate with me in either French or English.
 
 Les cours ont tous leur site dédié, contenant toutes les informations qui leur sont relatives.
 
+### 2023-2024
+
+S1 :
+
+- 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/) (M2
+  PluriTAL)
+
 ### 2022-2023
 
 S1 :
 
 - 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum)  (L2 SDL
   LCN, L2 InfoCom, L3 Humanités)
-- 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/) (M2
+- 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/2022) (M2
   PluriTAL)
 
 S2 :
