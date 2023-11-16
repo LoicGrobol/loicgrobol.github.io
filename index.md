@@ -33,4 +33,4 @@ welcome bug reports and contributions.
 Feel free to reach out at [loic.grobol@gmail.com](mailto:loic.grobol@gmail.com) for questions,
 chats and impromptu jam sessions.
 
-You can also find my social ramblings on [Mastodon](https://lingo.lol/@fay?rel="me").
+You can also find my social ramblings on <a rel="me" href="https://lingo.lol/@fay">Mastodon</a>.
