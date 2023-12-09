@@ -8,7 +8,7 @@ Repo to generate <https://loicgrobol.github.io>
 
 Contact : [<loic.grobol@gmail.com>](mailto:loic.grobol@gmail.com)
 
-## Build locallybundler: failed to load command: jekyll
+## Build locally
 
 ```console
 gem install jekyll bundler
