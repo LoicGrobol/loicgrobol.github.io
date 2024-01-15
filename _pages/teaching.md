@@ -41,22 +41,30 @@ S1 :
 - 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/) (M2
   PluriTAL)
 
+S2 :
+
+- 📑 [Décrire et manipuler un document numérique](https://loicgrobol.github.io/document-numerique)
+  (L2 SDL LCN, L2 SDL LCS, L3 Humanités)
+- 🐍 [Apprendre à programmer](https://loicgrobol.github.io/apprendre-programmer) (L3 SDL LCN)
+- 🕸 [Interfaces web pour le TAL](https://loicgrobol.github.io/web-interfaces) (M2 PluriTAL)
+- 🤖 [Réseaux de neurones](https://loicgrobol.github.io/neural-networks) (M2 PluriTAL)
+
 ### 2022-2023
 
 S1 :
 
-- 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum)  (L2 SDL
-  LCN, L2 InfoCom, L3 Humanités)
+- 📚 [Introduction aux humanités numériques](https://loicgrobol.github.io/intro-humnum/2022)  (L2
+  SDL LCN, L2 InfoCom, L3 Humanités)
 - 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/2022) (M2
   PluriTAL)
 
 S2 :
 
 - 📑 [Décrire et manipuler un document
-  numérique](https://loicgrobol.github.io/document-numerique/2022) (L2 SDL LCN, L2 SDL LCS)
-- 🐍 [Apprendre à programmer](https://loicgrobol.github.io/apprendre-programmer) (L3 SDL LCN)
-- 🕸 [Interfaces web pour le TAL](https://loicgrobol.github.io/web-interfaces) (M2 PluriTAL)
-- 🤖 [Réseaux de neurones](https://loicgrobol.github.io/neural-networks) (M2 PluriTAL)
+  numérique](https://loicgrobol.github.io/document-numerique/2023) (L2 SDL LCN, L2 SDL LCS)
+- 🐍 [Apprendre à programmer](https://loicgrobol.github.io/apprendre-programmer/2023) (L3 SDL LCN)
+- 🕸 [Interfaces web pour le TAL](https://loicgrobol.github.io/web-interfaces/2023) (M2 PluriTAL)
+- 🤖 [Réseaux de neurones](https://loicgrobol.github.io/neural-networks/2023) (M2 PluriTAL)
 
 Misc :
 
