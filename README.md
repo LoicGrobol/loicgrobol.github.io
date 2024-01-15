@@ -10,8 +10,9 @@ Contact : [<loic.grobol@gmail.com>](mailto:loic.grobol@gmail.com)
 
 ## Build locally
 
-```console
-gem install jekyll bundler
+```bash
+rtx activate # ← adapt to your shell
+gem install bundler
 bundle config set --local path 'vendor/bundle'
 bundle install
 bundle exec jekyll build
