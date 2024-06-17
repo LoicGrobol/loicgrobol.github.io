@@ -7,8 +7,8 @@ layout: home
 <!-- LTeX: language=en-GB -->
 <!-- markdownlint-disable MD003 MD025 MD033 -->
 
-Hi! Bonjour ! Hej! Demat !
-=========================
+Hi! Boñjour deoc'h ! Hej!
+========================
 
 I'm Loïc Grobol. I'm a *maître de conférence* (≈ Associate Professor) in computational linguistics
 at [Université Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the
