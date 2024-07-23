@@ -10,13 +10,14 @@ layout: home
 Hi! Boñjour deoc'h ! Hej!
 ========================
 
-I'm Loïc Grobol. I'm a *maître de conférence* (≈ Associate Professor) in computational linguistics
-at [Université Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the
+I'm Loïc Grobol [loic gʁobɔl], MCF (≈ Associate Professor) in computational linguistics at
+[Université Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the
 [MoDyCo](https://modyco.fr) team and associate member of the [Lattice](lattice.cnrs.fr) lab
 ([CNRS](https://cnrs.fr) and [École Normale Supérieure](https://www.ens.psl.eu)).
 
-I pronounce my name [loic gʁobɔl]. I typically use they/them pronouns in English and gender-neutral
-pronouns in other languages where they exist.
+My first name can also be written Loig and I also use Morgan, especially out of professional
+situations. My pronouns are they/them in English, gender-neutral pronouns in other languages where
+they exist and any pronouns where they don't.
 
 ## My research
 
