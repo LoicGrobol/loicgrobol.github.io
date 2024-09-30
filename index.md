@@ -12,7 +12,7 @@ Hi! Boñjour deoc'h ! Hej!
 
 I'm Loïc Grobol [loic gʁobɔl], MCF (≈ Associate Professor) in computational linguistics at
 [Université Paris Nanterre](https://parisnanterre.fr), France 🇫🇷, in the
-[MoDyCo](https://modyco.fr) team and associate member of the [Lattice](lattice.cnrs.fr) lab
+[MoDyCo](https://modyco.fr) lab and associate member of the [Lattice](lattice.cnrs.fr) lab
 ([CNRS](https://cnrs.fr) and [École Normale Supérieure](https://www.ens.psl.eu)).
 
 My first name can also be written Loig and I also use Morgan, especially out of professional

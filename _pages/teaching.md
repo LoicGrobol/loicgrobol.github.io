@@ -34,11 +34,18 @@ Vous pouvez prendre rendez-vous pour des *office hours* à distance sur
 
 Les cours ont tous leur site dédié, contenant toutes les informations qui leur sont relatives.
 
-### 2023-2024
+### 2024-2025
 
 S1 :
 
 - 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/) (M2
+  PluriTAL)
+
+### 2023-2024
+
+S1 :
+
+- 🤖 [Apprentissage artificiel](https://loicgrobol.github.io/apprentissage-artificiel/2023) (M2
   PluriTAL)
 
 S2 :
@@ -48,6 +55,7 @@ S2 :
 - 🐍 [Apprendre à programmer](https://loicgrobol.github.io/apprendre-programmer) (L3 SDL LCN)
 - 🕸 [Interfaces web pour le TAL](https://loicgrobol.github.io/web-interfaces) (M2 PluriTAL)
 - 🤖 [Réseaux de neurones](https://loicgrobol.github.io/neural-networks) (M2 PluriTAL)
+- 📐 [Mathématiques pour le TAL](https://loicgrobol.github.io/maths-nlp) (M1 PluriTAL)
 
 ### 2022-2023
 
