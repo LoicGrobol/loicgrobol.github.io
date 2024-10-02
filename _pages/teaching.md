@@ -20,14 +20,14 @@ My classes are taught in French. If you have trouble working with the French lec
 can catch up using additional materials that I can make available to you upon request. You can
 communicate with me in either French or English.
 
-You can book a remote office hour video call meeting with me on
-[Calendly](https://calendly.com/lgrobol/remote-office-hour). If it doesn't work with your schedule,
+You can book a remote office hour video call meeting with me on [Google
+Calendar](https://calendar.app.google/N9oW2c9BzhXsWrrv9). If it doesn't work with your schedule,
 email me and we'll figure it out.
 
 <!-- LTeX: language=fr -->
 
-Vous pouvez prendre rendez-vous pour des *office hours* à distance sur
-[Calendly](https://calendly.com/lgrobol/remote-office-hour). Si aucun créneau ne vous convient,
+Vous pouvez prendre rendez-vous pour des *office hours* à distance sur [Google
+Calendar](https://calendar.app.google/N9oW2c9BzhXsWrrv9). Si aucun créneau ne vous convient,
 écrivez-moi et on trouvera une solution.
 
 ## Liste des cours
