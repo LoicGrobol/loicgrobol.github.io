@@ -1,5 +1,5 @@
 ---
-title: Loïc Grobol
+title: L. Grobol
 toc: true
 layout: home
 ---
@@ -31,7 +31,7 @@ Most of my work — in writing and in code — is available on [Github](http
 and the [Gitlab](https://gitlab.huma-num.fr/lgrobol) instance of the HumaNum consortium. I always
 welcome bug reports and contributions.
 
-Feel free to reach out at [loic.grobol@gmail.com](mailto:loic.grobol@gmail.com) for questions,
-chats and impromptu jam sessions.
+My email is lgrobol, hosted on tuta.com. Feel free to reach out at or questions, chats and impromptu
+jam sessions.
 
 You can also find my social ramblings on <a rel="me" href="https://lingo.lol/@fay">Mastodon</a>.
