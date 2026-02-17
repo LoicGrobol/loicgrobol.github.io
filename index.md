@@ -33,5 +33,3 @@ welcome bug reports and contributions.
 
 My email is lgrobol, hosted on tuta.com. Feel free to reach out at or questions, chats and impromptu
 jam sessions.
-
-You can also find my social ramblings on <a rel="me" href="https://lingo.lol/@fay">Mastodon</a>.
